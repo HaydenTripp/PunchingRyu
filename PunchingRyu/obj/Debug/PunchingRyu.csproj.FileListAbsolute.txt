@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\bin\Debug\PunchingRyu.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\bin\Debug\PunchingRyu.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\bin\Debug\PunchingRyu.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.frmRyu.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Tripp, Hayden (s410582)\Unit 1 (Problem Solving)\PunchingRyu\PunchingRyu\obj\Debug\PunchingRyu.pdb

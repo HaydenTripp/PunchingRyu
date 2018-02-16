@@ -16,5 +16,15 @@ namespace PunchingRyu
         {
             InitializeComponent();
         }
+
+        private void punchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.pictureRyu.Image = Properties.Resources.punch;
+        }
+
+        private void standToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.pictureRyu.Image = Properties.Resources.stand;
+        }
     }
 }
